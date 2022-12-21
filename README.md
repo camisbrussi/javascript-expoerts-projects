@@ -1,5 +1,5 @@
 <h1 align="center">
-  JAVASCRIPT EXPERTS by Erick Wendel [Em construção] 🚀
+  JAVASCRIPT EXPERT by Erick Wendel [Em construção] 🚀
 </h1>
 <p align="center">
   <img alt="GitHub language count" src="https://img.shields.io/github/languages/count/camisbrussi/ignite_ignews">
