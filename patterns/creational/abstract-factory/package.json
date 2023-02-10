@@ -1,25 +1,20 @@
 {
-  "name": "aula02-subs",
+  "name": "abstract-factory",
   "version": "1.0.0",
   "description": "",
   "main": "index.js",
+  "type": "module",
   "scripts": {
+    "web": "npx http-server .",
+    "server": "node ui/index.mjs",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "keywords": [],
   "author": "",
   "license": "ISC",
-  "devDependencies": {
-    "sinon": "^9.2.4"
-  },
   "dependencies": {
-    "chai": "^4.3.7",
-    "chalk": "^5.2.0",
+    "chalk": "^2.4.2",
     "chalk-table": "^1.0.2",
-    "draftlog": "^1.0.13",
-    "mocha": "^10.2.0",
-    "nodemon": "^2.0.20",
-    "nyc": "^15.1.0",
-    "reify": "^0.20.12"
+    "http-server": "^0.12.3"
   }
 }

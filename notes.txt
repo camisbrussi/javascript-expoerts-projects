@@ -1,0 +1,21 @@
+Dry - Don't repeat yourself - Pensou em criar o mesmo código duas vezes, cria uma função
+KISS - keep it Simple Stupid - Código mais simples possível
+YAGNI - You Aren't gonna need it  - Atente pro seu escopo, prazo e finalide 
+
+
+Clean Code - 
+
+S Single Responsability - Responsabilidade, um módulo deve ter apenas uma razão. Classes com mais responsabilidades devem ser revistas e divididas em novas classes
+
+O Open Closed- Entidades do sistema devem ser aberta para extensoes, e fechadas pra modificação. Ao criar uma feature nova, não altere o que já está funcionando
+
+L Liskov Substitution - Substituição, a classe filha pode erdar tudo do pai, e sobrecrever um método caso necessário
+
+I Interface Segregation - Segregação de clases, clientes não pode ser forçados a usar uma clase que não usam
+
+D Dependency Inversion - Classes abstratas não podemos depender diretamente da classe concreta e suas detalhes de implemtação. precisamos enteder da abstração e conhecer somente a estrutura dos dados
+
+- Príncipios de designer que tem a visão de criar softwares mais flexíveis, fácil de manter e fácil de entender
+
+
+- Padrão factory - Criar um lugar centralizado onde as dependências são importadas
